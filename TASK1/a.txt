@@ -1,2 +1,7 @@
 created a file
+<<<<<<< HEAD
 line 1
+=======
+hello good afternoon
+be kind to everyone
+>>>>>>> parent of e885e7e (Revert "content updated-3")
